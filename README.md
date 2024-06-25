@@ -4,7 +4,7 @@
 
 I'm a web developer with a knack for building performant and interactive applications.
 
-Skills: Next JS / REACT / JS / TS / HTML / CSS / Tailwind CSS / Python / Mongo DB / MySQL
+Skills: Next JS / REACT / JS / TS / HTML / CSS / Tailwind CSS / Node JS / Mongo DB / MySQL
 
 - 🔭 I’m currently working on Front End Developing 
 - 🌱 I’m currently learning MERN STACK 
