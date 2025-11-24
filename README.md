@@ -22,7 +22,7 @@ const developer = {
   name: "MD Sadman Hossain Sakib",
   role: "Full Stack MERN Developer",
   location: "🌍 Your Location",
-  experience: "X+ years",
+  experience: "2+ years",
   currentFocus: "Building scalable web applications",
   learning: ["AI Integration", "Microservices", "System Design"],
   
