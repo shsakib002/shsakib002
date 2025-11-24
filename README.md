@@ -19,7 +19,7 @@
 
 ```typescript
 const developer = {
-  name: "Your Name",
+  name: "MD Sadman Hossain Sakib",
   role: "Full Stack MERN Developer",
   location: "🌍 Your Location",
   experience: "X+ years",
