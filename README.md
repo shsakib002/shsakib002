@@ -4,6 +4,8 @@
 
 ### 🚀 Full Stack MERN Developer | Building Digital Excellence
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Cloud+Architecture+Enthusiast;DevOps+%26+CI%2FCD+Expert)](https://git.io/typing-svg)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
@@ -22,147 +24,317 @@ const developer = {
   location: "🌍 Your Location",
   experience: "X+ years",
   currentFocus: "Building scalable web applications",
+  learning: ["AI Integration", "Microservices", "System Design"],
   
   codePhilosophy: "Clean code, scalable architecture, user-first design",
   
-  funFact: "I turn coffee ☕ into code 💻"
+  funFact: "I turn coffee ☕ into code 💻 and bugs into features 🚀"
 };
 ```
 
-- 🔭 I'm currently working on **Enterprise Web Applications**
-- 🌱 I'm currently learning **AI Integration & Microservices**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **MERN Stack, DevOps, Cloud Architecture**
-- 📫 Reach me at: **your.email@example.com**
+<div align="center">
+
+### 💼 **What I Bring to the Table**
+
+🔹 **End-to-End Development** • From wireframe to deployment  
+🔹 **Performance Optimization** • Lightning-fast, SEO-friendly applications  
+🔹 **Cloud Native Solutions** • Scalable architecture on AWS & Vercel  
+🔹 **Modern Tech Stack** • Latest frameworks and best practices  
+🔹 **Team Collaboration** • Agile methodologies & effective communication
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-### Frontend
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### **Frontend Development**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-### Backend
+</td>
+<td align="center" width="33%">
+
+### **Backend Development**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-### Database
+### **Database**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-### UI Frameworks
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+</td>
+<td align="center" width="33%">
 
-### DevOps & Cloud
+### **DevOps & Cloud**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-### Tools
+### **UI Libraries**
+
+![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Chakra](https://img.shields.io/badge/Chakra-319795?style=flat-square&logo=chakraui&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### **Tools & Collaboration**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=flat-square&logo=githubactions&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=8B949E" />
+
+</div>
+
+<div align="center">
+
+### 📈 **Contribution Activity**
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=58A6FF&area=true&area_color=3B82F6&title_color=3B82F6" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+
+</div>
 
 ---
 
 ## 💼 Featured Projects
 
-### 🚀 [Project Name 1](https://github.com/yourusername/project1)
-**Full Stack E-commerce Platform**
-- Built with React, Node.js, MongoDB, and AWS
-- Handles 50K+ monthly active users
-- Integrated payment gateway and real-time inventory
-- **Tech:** React • Node.js • MongoDB • AWS • Stripe
+<div align="center">
 
-### 💻 [Project Name 2](https://github.com/yourusername/project2)
-**Enterprise SaaS Application**
-- Next.js, NestJS, PostgreSQL, Docker
-- Role-based access control & real-time collaboration
-- Automated CI/CD pipeline
-- **Tech:** Next.js • NestJS • PostgreSQL • Docker
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🚀 Project One</h3>
+<div align="center">
+<a href="https://github.com/yourusername/project1" target="_blank">
+<img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://project1-demo.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Demo-Live-00C244?style=for-the-badge&logo=vercel" />
+</a>
+<p><strong>Full Stack E-commerce Platform</strong></p>
+<p>Built with React, Node.js, MongoDB & AWS. Handles 50K+ monthly active users with real-time inventory management.</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws" />
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">💻 Project Two</h3>
+<div align="center">
+<a href="https://github.com/yourusername/project2" target="_blank">
+<img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://project2-demo.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Demo-Live-00C244?style=for-the-badge&logo=vercel" />
+</a>
+<p><strong>Enterprise SaaS Application</strong></p>
+<p>Next.js, NestJS & PostgreSQL. Features role-based access control and real-time collaboration.</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" />
+</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">🎨 Project Three</h3>
+<div align="center">
+<a href="https://github.com/yourusername/project3" target="_blank">
+<img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://project3-demo.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Demo-Live-00C244?style=for-the-badge&logo=vercel" />
+</a>
+<p><strong>High-Performance REST API</strong></p>
+<p>Serves 1M+ daily requests with advanced caching, rate limiting & global CDN distribution.</p>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare" />
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">🔐 Project Four</h3>
+<div align="center">
+<a href="https://github.com/yourusername/project4" target="_blank">
+<img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://project4-demo.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/Demo-Live-00C244?style=for-the-badge&logo=vercel" />
+</a>
+<p><strong>AI Analytics Dashboard</strong></p>
+<p>Real-time analytics with AI-powered insights, automated reporting & beautiful data visualizations.</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel" />
+</p>
+</div>
+</td>
+</tr>
+</table>
 
-### 🎨 [Project Name 3](https://github.com/yourusername/project3)
-**High-Performance REST API**
-- Serves 1M+ requests daily
-- Advanced caching and rate limiting
-- Global CDN distribution
-- **Tech:** TypeScript • Express • MySQL • Cloudflare
+</div>
 
 ---
 
-## 🏆 Achievements
+## 🎓 Expertise & Certifications
 
-- ✅ **AWS Certified** Solutions Architect
-- ✅ **500+** Open Source Contributions
-- ✅ **90+** Lighthouse Performance Scores
-- ✅ **50K+** Monthly Blog Readers
-- ✅ Led teams on **10+ Enterprise Projects**
+<div align="center">
+
+| 🏅 Achievement | 📜 Description |
+|:--------------|:---------------|
+| **🎯 AWS Certified** | Solutions Architect Associate |
+| **⚡ Performance Expert** | 90+ Lighthouse scores across all projects |
+| **🚀 Open Source** | 500+ contributions to various repositories |
+| **👥 Team Leadership** | Led 5+ developers on enterprise projects |
+| **📚 Technical Writer** | 50K+ monthly readers on dev.to |
+| **🎤 Speaker** | Presented at 3 international conferences |
+
+</div>
 
 ---
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable MERN Applications: Best Practices 2024](https://yourblog.com/post1)
-- [Next.js 14 App Router: Complete Guide](https://yourblog.com/post2)
-- [Docker & Kubernetes for Full Stack Developers](https://yourblog.com/post3)
-- [Implementing JWT Authentication in NestJS](https://yourblog.com/post4)
+- 🚀 [Building Scalable MERN Applications: Best Practices 2024](https://yourblog.com)
+- ⚡ [Next.js 14 App Router: The Complete Guide](https://yourblog.com)
+- 🐳 [Docker & Kubernetes for Full Stack Developers](https://yourblog.com)
+- 🔒 [Implementing JWT Authentication in NestJS](https://yourblog.com)
+- 📊 [Database Optimization for High-Traffic Applications](https://yourblog.com)
 <!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/Read_More-Articles-blue?style=for-the-badge)](https://yourblog.com)
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect!
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+### 💬 **I'm always open to interesting conversations and collaboration opportunities!**
+
+**🔍 Currently:**
+- ✅ Open to full-time opportunities
+- ✅ Available for freelance projects
+- ✅ Open source collaborations
+- ✅ Technical mentorship
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourusername)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ "Building the future, one commit at a time" ⚡
+### ⚡ Fun Fact
 
-**💙 Open to opportunities | 🤝 Let's collaborate!**
+```javascript
+while (alive) {
+  eat();
+  sleep();
+  code();
+  repeat();
+}
+```
+
+<br>
+
+### 🎯 **"Building the future, one commit at a time"**
+
+<br>
+
+**⭐ If you find my work interesting, consider starring my repositories!**
+
+<br>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
+
+---
+
+*Made with 💙 by [Your Name]*
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
 </div>
