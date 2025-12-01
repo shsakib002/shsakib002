@@ -259,24 +259,6 @@ const developer = {
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable MERN Applications: Best Practices 2024](https://yourblog.com)
-- ⚡ [Next.js 14 App Router: The Complete Guide](https://yourblog.com)
-- 🐳 [Docker & Kubernetes for Full Stack Developers](https://yourblog.com)
-- 🔒 [Implementing JWT Authentication in NestJS](https://yourblog.com)
-- 📊 [Database Optimization for High-Traffic Applications](https://yourblog.com)
-<!-- BLOG-POST-LIST:END -->
-
-<div align="center">
-
-[![Blog](https://img.shields.io/badge/Read_More-Articles-blue?style=for-the-badge)](https://yourblog.com)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
