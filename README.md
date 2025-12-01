@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm SH Sakib
 
 ### 🚀 Full Stack MERN Developer | Building Digital Excellence
 
@@ -19,10 +19,10 @@
 
 ```typescript
 const developer = {
-  name: "Your Name",
+  name: "SH Sakib",
   role: "Full Stack MERN Developer",
-  location: "🌍 Your Location",
-  experience: "X+ years",
+  location: "🌍 Mirpu-1216, Dhaka",
+  experience: "3+ years",
   currentFocus: "Building scalable web applications",
   learning: ["AI Integration", "Microservices", "System Design"],
   
